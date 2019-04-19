@@ -1,0 +1,91 @@
+C:\Users\Roman\Downloads\Hack\проекты С#\шифр\Crypto_3\Crypto_3\bin\Debug\Crypto_3.exe.config
+C:\Users\Roman\Downloads\Hack\проекты С#\шифр\Crypto_3\Crypto_3\bin\Debug\Crypto_3.exe
+C:\Users\Roman\Downloads\Hack\проекты С#\шифр\Crypto_3\Crypto_3\bin\Debug\Crypto_3.pdb
+C:\Users\Roman\Downloads\Hack\проекты С#\шифр\Crypto_3\Crypto_3\obj\Debug\Crypto_3.csprojResolveAssemblyReference.cache
+C:\Users\Roman\Downloads\Hack\проекты С#\шифр\Crypto_3\Crypto_3\obj\Debug\Crypto_3.Form1.resources
+C:\Users\Roman\Downloads\Hack\проекты С#\шифр\Crypto_3\Crypto_3\obj\Debug\Crypto_3.Properties.Resources.resources
+C:\Users\Roman\Downloads\Hack\проекты С#\шифр\Crypto_3\Crypto_3\obj\Debug\Crypto_3.csproj.GenerateResource.Cache
+C:\Users\Roman\Downloads\Hack\проекты С#\шифр\Crypto_3\Crypto_3\obj\Debug\Crypto_3.exe
+C:\Users\Roman\Downloads\Hack\проекты С#\шифр\Crypto_3\Crypto_3\obj\Debug\Crypto_3.pdb
+C:\CODING\проекты С#\шифр\Crypto_3\Crypto_3\bin\Debug\Crypto_3.exe.config
+C:\CODING\проекты С#\шифр\Crypto_3\Crypto_3\obj\Debug\Crypto_3.exe
+C:\CODING\проекты С#\шифр\Crypto_3\Crypto_3\obj\Debug\Crypto_3.pdb
+C:\CODING\проекты С#\шифр\Crypto_3\Crypto_3\bin\Debug\Crypto_3.exe
+C:\CODING\проекты С#\шифр\Crypto_3\Crypto_3\bin\Debug\Crypto_3.pdb
+C:\CODING\проекты С#\шифр\Crypto_3\Crypto_3\obj\Debug\Crypto_3.csprojResolveAssemblyReference.cache
+C:\CODING\проекты С#\шифр\Crypto_3\Crypto_3\obj\Debug\Crypto_3.Form1.resources
+C:\CODING\проекты С#\шифр\Crypto_3\Crypto_3\obj\Debug\Crypto_3.Properties.Resources.resources
+C:\CODING\проекты С#\шифр\Crypto_3\Crypto_3\obj\Debug\Crypto_3.csproj.GenerateResource.Cache
+C:\CODING\проекты С#\шифр\Crypto_3 — копия\Crypto_3\bin\Debug\Crypto_3.exe.config
+C:\CODING\проекты С#\шифр\Crypto_3 — копия\Crypto_3\obj\Debug\Crypto_3.exe
+C:\CODING\проекты С#\шифр\Crypto_3 — копия\Crypto_3\obj\Debug\Crypto_3.pdb
+C:\CODING\проекты С#\шифр\Crypto_3 — копия\Crypto_3\bin\Debug\Crypto_3.exe
+C:\CODING\проекты С#\шифр\Crypto_3 — копия\Crypto_3\bin\Debug\Crypto_3.pdb
+C:\CODING\проекты С#\шифр\Crypto_3 — копия\Crypto_3\obj\Debug\Crypto_3.csprojResolveAssemblyReference.cache
+C:\CODING\проекты С#\шифр\Crypto_3 — копия\Crypto_3\obj\Debug\Crypto_3.Form1.resources
+C:\CODING\проекты С#\шифр\Crypto_3 — копия\Crypto_3\obj\Debug\Crypto_3.Properties.Resources.resources
+C:\CODING\проекты С#\шифр\Crypto_3 — копия\Crypto_3\obj\Debug\Crypto_3.csproj.GenerateResource.Cache
+C:\CODING\проекты С#\шифр\Crypto_4\Crypto_3\bin\Debug\Crypto_3.exe.config
+C:\CODING\проекты С#\шифр\Crypto_4\Crypto_3\obj\Debug\Crypto_3.exe
+C:\CODING\проекты С#\шифр\Crypto_4\Crypto_3\obj\Debug\Crypto_3.pdb
+C:\CODING\проекты С#\шифр\Crypto_4\Crypto_3\obj\Debug\Crypto_3.csprojResolveAssemblyReference.cache
+C:\CODING\проекты С#\шифр\Crypto_4\Crypto_3\obj\Debug\Crypto_3.Form1.resources
+C:\CODING\проекты С#\шифр\Crypto_4\Crypto_3\obj\Debug\Crypto_3.Properties.Resources.resources
+C:\CODING\проекты С#\шифр\Crypto_4\Crypto_3\obj\Debug\Crypto_3.csproj.GenerateResource.Cache
+C:\CODING\проекты С#\шифр\Crypto_4\Crypto_3\bin\Debug\Crypto_3.exe
+C:\CODING\проекты С#\шифр\Crypto_4\Crypto_3\bin\Debug\Crypto_3.pdb
+C:\CODING\проекты С#\шифр\Crypto_4 — копия\Crypto_3\bin\Debug\Crypto_3.exe.config
+C:\CODING\проекты С#\шифр\Crypto_4 — копия\Crypto_3\obj\Debug\Crypto_3.pdb
+C:\CODING\проекты С#\шифр\Crypto_4 — копия\Crypto_3\bin\Debug\Crypto_3.exe
+C:\CODING\проекты С#\шифр\Crypto_4 — копия\Crypto_3\bin\Debug\Crypto_3.pdb
+C:\CODING\проекты С#\шифр\Crypto_4 — копия\Crypto_3\obj\Debug\Crypto_3.csprojResolveAssemblyReference.cache
+C:\CODING\проекты С#\шифр\Crypto_4 — копия\Crypto_3\obj\Debug\Crypto_3.Form1.resources
+C:\CODING\проекты С#\шифр\Crypto_4 — копия\Crypto_3\obj\Debug\Crypto_3.Properties.Resources.resources
+C:\CODING\проекты С#\шифр\Crypto_4 — копия\Crypto_3\obj\Debug\Crypto_3.csproj.GenerateResource.Cache
+C:\CODING\проекты С#\шифр\Crypto_4 — копия\Crypto_3\obj\Debug\Crypto_3.exe
+C:\CODING\проекты С#\шифр\Crypto_5\Crypto_3\bin\Debug\Crypto_3.exe.config
+C:\CODING\проекты С#\шифр\Crypto_5\Crypto_3\obj\Debug\Crypto_3.exe
+C:\CODING\проекты С#\шифр\Crypto_5\Crypto_3\obj\Debug\Crypto_3.pdb
+C:\CODING\проекты С#\шифр\Crypto_5\Crypto_3\bin\Debug\Crypto_3.exe
+C:\CODING\проекты С#\шифр\Crypto_5\Crypto_3\bin\Debug\Crypto_3.pdb
+C:\CODING\проекты С#\шифр\Crypto_5\Crypto_3\obj\Debug\Crypto_3.csprojResolveAssemblyReference.cache
+C:\CODING\проекты С#\шифр\Crypto_5\Crypto_3\obj\Debug\Crypto_3.Form1.resources
+C:\CODING\проекты С#\шифр\Crypto_5\Crypto_3\obj\Debug\Crypto_3.Properties.Resources.resources
+C:\CODING\проекты С#\шифр\Crypto_5\Crypto_3\obj\Debug\Crypto_3.csproj.GenerateResource.Cache
+C:\CODING\проекты С#\шифр\Crypto_6\Crypto_3\bin\Debug\Crypto_3.exe.config
+C:\CODING\проекты С#\шифр\Crypto_6\Crypto_3\obj\Debug\Crypto_3.exe
+C:\CODING\проекты С#\шифр\Crypto_6\Crypto_3\obj\Debug\Crypto_3.pdb
+C:\CODING\проекты С#\шифр\Crypto_6\Crypto_3\bin\Debug\Crypto_3.exe
+C:\CODING\проекты С#\шифр\Crypto_6\Crypto_3\bin\Debug\Crypto_3.pdb
+C:\CODING\проекты С#\шифр\Crypto_6\Crypto_3\obj\Debug\Crypto_3.csprojResolveAssemblyReference.cache
+C:\CODING\проекты С#\шифр\Crypto_6\Crypto_3\obj\Debug\Crypto_3.Form1.resources
+C:\CODING\проекты С#\шифр\Crypto_6\Crypto_3\obj\Debug\Crypto_3.Properties.Resources.resources
+C:\CODING\проекты С#\шифр\Crypto_6\Crypto_3\obj\Debug\Crypto_3.csproj.GenerateResource.Cache
+C:\CODING\проекты С#\шифр\Crypto_7\Crypto_3\bin\Debug\Crypto_3.exe.config
+C:\CODING\проекты С#\шифр\Crypto_7\Crypto_3\obj\Debug\Crypto_3.exe
+C:\CODING\проекты С#\шифр\Crypto_7\Crypto_3\obj\Debug\Crypto_3.pdb
+C:\CODING\проекты С#\шифр\Crypto_7\Crypto_3\bin\Debug\Crypto_3.exe
+C:\CODING\проекты С#\шифр\Crypto_7\Crypto_3\bin\Debug\Crypto_3.pdb
+C:\CODING\проекты С#\шифр\Crypto_7\Crypto_3\obj\Debug\Crypto_3.csprojResolveAssemblyReference.cache
+C:\CODING\проекты С#\шифр\Crypto_7\Crypto_3\obj\Debug\Crypto_3.Form1.resources
+C:\CODING\проекты С#\шифр\Crypto_7\Crypto_3\obj\Debug\Crypto_3.Properties.Resources.resources
+C:\CODING\проекты С#\шифр\Crypto_7\Crypto_3\obj\Debug\Crypto_3.csproj.GenerateResource.Cache
+C:\CODING\проекты С#\криптография\Crypto_7\Crypto_3\bin\Debug\Crypto_3.exe.config
+C:\CODING\проекты С#\криптография\Crypto_7\Crypto_3\obj\Debug\Crypto_3.exe
+C:\CODING\проекты С#\криптография\Crypto_7\Crypto_3\bin\Debug\Crypto_3.exe
+C:\CODING\проекты С#\криптография\Crypto_7\Crypto_3\bin\Debug\Crypto_3.pdb
+C:\CODING\проекты С#\криптография\Crypto_7\Crypto_3\obj\Debug\Crypto_3.csprojResolveAssemblyReference.cache
+C:\CODING\проекты С#\криптография\Crypto_7\Crypto_3\obj\Debug\Crypto_3.Form1.resources
+C:\CODING\проекты С#\криптография\Crypto_7\Crypto_3\obj\Debug\Crypto_3.Properties.Resources.resources
+C:\CODING\проекты С#\криптография\Crypto_7\Crypto_3\obj\Debug\Crypto_3.csproj.GenerateResource.Cache
+C:\CODING\проекты С#\криптография\Crypto_7\Crypto_3\obj\Debug\Crypto_3.pdb
+C:\CODING\C#\Crypto_9\Crypto_9\Crypto_3\bin\Debug\Crypto_3.exe.config
+C:\CODING\C#\Crypto_9\Crypto_9\Crypto_3\bin\Debug\Crypto_3.exe
+C:\CODING\C#\Crypto_9\Crypto_9\Crypto_3\bin\Debug\Crypto_3.pdb
+C:\CODING\C#\Crypto_9\Crypto_9\Crypto_3\obj\Debug\Crypto_3.csprojAssemblyReference.cache
+C:\CODING\C#\Crypto_9\Crypto_9\Crypto_3\obj\Debug\Crypto_3.Form1.resources
+C:\CODING\C#\Crypto_9\Crypto_9\Crypto_3\obj\Debug\Crypto_3.Properties.Resources.resources
+C:\CODING\C#\Crypto_9\Crypto_9\Crypto_3\obj\Debug\Crypto_3.csproj.GenerateResource.cache
+C:\CODING\C#\Crypto_9\Crypto_9\Crypto_3\obj\Debug\Crypto_3.csproj.CoreCompileInputs.cache
+C:\CODING\C#\Crypto_9\Crypto_9\Crypto_3\obj\Debug\Crypto_3.exe
+C:\CODING\C#\Crypto_9\Crypto_9\Crypto_3\obj\Debug\Crypto_3.pdb
